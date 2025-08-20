@@ -19,7 +19,7 @@ int main() {
 
           // navio 2 vertical
         for (int i = 0; i < 3; i++) {
-            tabuleiro[i+2][2] = 3;
+            tabuleiro[0][i] = 3;
         }
 
 
